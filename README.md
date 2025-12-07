@@ -14,6 +14,9 @@ Built with React, TypeScript, Vite, Anthropic Claude, and AWS Cognito.
 ### Login Light
 <img width="1899" height="1321" alt="Screenshot 2025-12-07 at 20 30 55" src="https://github.com/user-attachments/assets/f800deae-1def-4b73-8971-7124e596b57e" />
 
+### Login Dark
+<img width="1893" height="1323" alt="Screenshot 2025-12-07 at 20 31 29" src="https://github.com/user-attachments/assets/8b162294-ac01-4738-a907-b898e5228036" />
+
 ### Welcome Screen
 
 ### Story Generation
