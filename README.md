@@ -18,14 +18,10 @@ Built with React, TypeScript, Vite, Anthropic Claude, and AWS Cognito.
 <img width="1893" height="1323" alt="Screenshot 2025-12-07 at 20 31 29" src="https://github.com/user-attachments/assets/8b162294-ac01-4738-a907-b898e5228036" />
 
 ### Welcome Screen
-
-### Story Generation
+<img width="1897" height="1326" alt="Screenshot 2025-12-07 at 20 32 32" src="https://github.com/user-attachments/assets/fd15be04-102e-4b30-b900-7c030b96c745" />
 
 ### Chat Interface
-
-### Light Theme
-
-### Dark Theme
+<img width="1893" height="1323" alt="Screenshot 2025-12-07 at 20 33 44" src="https://github.com/user-attachments/assets/059d3c0d-d28f-43dc-9806-7667202bea55" />
 
 ## Deployment Instructions
 
